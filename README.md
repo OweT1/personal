@@ -1,2 +1,2 @@
-# personal
-My personal repository containing things that I am passionate about!
+# Personal
+My personal repository containing some projects that I have done in the past!

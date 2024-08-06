@@ -17,19 +17,19 @@ Difficulty: 3/10
 
 Enjoyability: 6/10
 
-Tutorial Attendance - 4.5/5:
+### Tutorial Attendance - 4.5/5:
 
 Just attend the in-lecture tutorial session and you are good to go.
 
-Datacamp Assignments - 5/5:
+### Datacamp Assignments - 5/5:
 
 We just had to do some simple courses on Datacamp with R as the main programming language. Should not take too long if you know what you are doing
 
-Midterms - 69/80:
+### Midterms - 69/80:
 
 I felt that the midterms was manageable, though many people did not find it so (median & mean was around 40ish). If you do enough practice with the lecture material, you should do fine.
 
-Finals - Not released:
+### Finals - Not released:
 
 Again, I felt that the finals was manageable as long as you prepare thoroughly enough (have a good cheatsheet). I was able to complete the exam in 1h 30mins, giving me 30mins to check through my answers. You can also "spot" the things she will test if you listen to the lectures attentively enough (she hinted on finding AUC values for all the models, which was what we did in the finals for the various classifiers)
 

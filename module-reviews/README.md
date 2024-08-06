@@ -32,3 +32,5 @@ Here is a collection of all the modules that I have taken thus far/will be takin
 |      |          | CS3244      | Machine Learning                                      |
 |      |          | CS3245      | Information Retrieval                                 |
 |      |          | DSA4213     | Natural Language Processing for Data Science          |
+
+Updated as of 06/08/2024

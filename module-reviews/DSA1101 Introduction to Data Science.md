@@ -17,7 +17,7 @@ Difficulty: 3/10
 
 Enjoyability: 6/10
 
-Tutorial Attendance- 4.5/5:
+Tutorial Attendance - 4.5/5:
 
 Just attend the in-lecture tutorial session and you are good to go.
 

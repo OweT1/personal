@@ -3,6 +3,8 @@
 
 Professor: Prof Ashish
 
+TA: Tyro Soh
+
 Assessment Mode:
 - Coursemology (15%)
 - Tutorial Participation (5%)

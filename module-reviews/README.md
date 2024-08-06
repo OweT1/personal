@@ -3,7 +3,7 @@
 Here is a collection of all the modules that I have taken thus far/will be taking as well as my honest reviews of them!
 
 | Year | Semester | Module Code | Module Name                                           |
-|------|----------|-------------|-------------------------------------------------------|
+|:----:|:--------:|------------:|:------------------------------------------------------|
 | 1    | 1        | HSI1000     | How Science Works, Why Science Works                  |
 |      |          | HSH1000     | The Human Condition                                   |
 |      |          | EC1101E     | Introduction to Economic Analysis                     |

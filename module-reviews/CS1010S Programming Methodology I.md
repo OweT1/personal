@@ -15,7 +15,9 @@ Rumored as the toughest module to take, I thought it would be really tough. At t
 However, I am aware that the content for AY23/24 was cut short, so the module may not be as tough anymore, so that's a good thing!
 
 Workload: 7/10
+
 Difficulty: 6/10
+
 Enjoyability: 6/10
 
 ### Coursemology - 15/15:
@@ -34,6 +36,8 @@ Can't remember the content tested, nor would it be relevant now. But just practi
 Same as Mid-terms.
 
 Expected Grade: A/A+
+
 Actual Grade: A+
+
 
 Updated as of 06/08/2024

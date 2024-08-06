@@ -1,6 +1,6 @@
 # Module Reviews
 
-Here is a collection of all the modules that I have taken thus far as well as my honest reviews of them!
+Here is a collection of all the modules that I have taken thus far/will be taking as well as my honest reviews of them!
 
 | Year | Semester | Module Code | Module Name                                           |
 |------|----------|-------------|-------------------------------------------------------|

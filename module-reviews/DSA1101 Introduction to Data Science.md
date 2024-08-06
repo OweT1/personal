@@ -29,7 +29,7 @@ We just had to do some simple courses on Datacamp with R as the main programming
 
 I felt that the midterms was manageable, though many people did not find it so (median & mean was around 40ish). If you do enough practice with the lecture material, you should do fine.
 
-### Finals - Not released:
+### Finals - Not released/100:
 
 Again, I felt that the finals was manageable as long as you prepare thoroughly enough (have a good cheatsheet). I was able to complete the exam in 1h 30mins, giving me 30mins to check through my answers. You can also "spot" the things she will test if you listen to the lectures attentively enough (she hinted on finding AUC values for all the models, which was what we did in the finals for the various classifiers)
 

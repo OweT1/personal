@@ -5,7 +5,7 @@ Professor: Prof Ashish
 
 TA: Tyro Soh
 
-Assessment Mode:
+### Assessment Mode:
 - Coursemology (15%)
 - Tutorial Participation (5%)
 - Practical Exam (15%)

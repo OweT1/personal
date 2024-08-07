@@ -37,7 +37,7 @@ Weekly labs, where you mostly do the lab work before the lab itself. The lab ses
 Midterms were definitely on the tougher side, even with PYPs. I felt that I did badly, especially for the last question (got 2/10), which showed in my overall marks. Upper quartile was 27.5/40, which was quite high and I felt that I could have done a lot better if I understood what the last question was about.
 
 ### Finals - 76/100
-Was very scared for the finals paper given my low confidence for the last few topics. Doing a lot of PYPs helped a bit but not a lot, as I was often wrong for those questions anyways. Ended doing fine for those topics and fell behind for the topics before Midterms. Could have done a lot better but oh wells.
+Was very scared for the finals paper given my low confidence for the last few topics. Doing a lot of PYPs helped a bit but not a lot, as I was often wrong for those questions anyways. Ended doing fine for those topics and fell behind for the topics before Midterms. Could have done a lot better if I wasn't careless but it is what it is.
 
 #### Expected Grade: A
 #### Actual Grade: A+

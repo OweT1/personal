@@ -35,8 +35,7 @@ I felt that the midterms was manageable, though many people did not find it so (
 
 Again, I felt that the finals was manageable as long as you prepare thoroughly enough (have a good cheatsheet). I was able to complete the exam in 1h 30mins, giving me 30mins to check through my answers. You can also "spot" the things she will test if you listen to the lectures attentively enough (she hinted on finding AUC values for all the models, which was what we did in the finals for the various classifiers)
 
-Expected Grade: A/A+
-
-Actual Grade: A+
+#### Expected Grade: A/A+
+#### Actual Grade: A+
 
 Updated as of 06/08/2024

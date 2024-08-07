@@ -24,8 +24,7 @@ Midterms were manageable, as long as you are able to do all the tutorial questio
 ## Finals - Not Released/50:
 Finals were rather simple, with 1 unorthodox question at the front to "throw you off". As long as you understood the concepts taught in the lectures, as well as some practice with the PYPs set by this Prof, you should be good to go.
 
-Expected Grade: A/A+
-
-Actual Grade: A+
+#### Expected Grade: A/A+
+#### Actual Grade: A+
 
 Updated as of 07/08/2024

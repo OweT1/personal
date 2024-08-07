@@ -26,9 +26,7 @@ Midterms was rather simple, as the content in the first half was simple in gener
 ### Finals - Not Released/100:
 I thought the Finals was ok, but I was upset as he basically recycled textbook questions and put in on the paper. From my experience, 2 out of 6 questions were copied directly from the textbook, 1 of which was easy to complete, the other was way tougher (I couldn't understand the answer key given). Overall, I could have done way better but then again, I felt that I had done my best to prepare for the exam and I was simply not in the right state of mind to take the finals (had CS1010S Finals earlier in the morning & did not eat afterwards)
 
-Expected Grade: A-/A
-
-Actual Grade: A-
-
+#### Expected Grade: A-/A
+#### Actual Grade: A-
 
 Updated as of 07/08/2024

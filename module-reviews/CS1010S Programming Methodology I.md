@@ -37,9 +37,7 @@ Can't remember the content tested, nor would it be relevant now. But just practi
 ### Finals - 93/100:
 Same as Mid-terms.
 
-Expected Grade: A/A+
-
-Actual Grade: A+
-
+#### Expected Grade: A/A+
+#### Actual Grade: A+
 
 Updated as of 06/08/2024

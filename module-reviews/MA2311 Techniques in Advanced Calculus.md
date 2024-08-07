@@ -2,6 +2,7 @@
 ## Taken in AY23/24 Semester 1
 
 Professor: Prof Leung Man Chun
+
 TA: Not sure
 
 ### Assessment Mode:
@@ -13,7 +14,9 @@ I was looking forward to this module, but then after going for a few lectures, I
 A good thing about the module was that watching the lectures were not really "work"; I watched the lectures to destress from my other modules as the Prof was just that funny and enjoyable to watch, so I thoroughly enjoyed the module just because of his personality.
 
 Workload: 2/10
+
 Difficulty: 5/10
+
 Enjoyability: 10/10
 
 ### Midterms - 18/20:

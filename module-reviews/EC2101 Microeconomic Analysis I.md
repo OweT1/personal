@@ -5,7 +5,7 @@ Professor: Prof Ong Ee Cheng
 
 TA: Tyro Soh
 
-Assessment Mode:
+### Assessment Mode:
 - Canvas Quizzes (7.5%)
 - Weekly Problem Set Submissions (7.5%)
 - Lectures & Tutorials Participation (15%)

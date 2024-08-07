@@ -5,7 +5,7 @@ Professor: Prof Pham Kim Cuc, Daisy
 
 TA: Prof Pham Kim Cuc, Daisy
 
-Assessment Mode:
+### Assessment Mode:
 - Tutorial Attendance (5%)
 - Datacamp Assignments (5%)
 - Midterms (30%)

@@ -12,7 +12,9 @@ TA: Can't remember
 I thought that the module was rather alright, going through the basics of probability, which would be familiar for those who took H2 Math in JC before. As someone who is weak in statistics in general, I felt that this module was tough for me, as I struggled to grasp some of the concepts, especially in the second half of the module.
 
 Workload: 2/10
+
 Difficulty: 5/10
+
 Enjoyability: 2/10
 
 ### Canvas Quizzes - 19/20:
@@ -27,5 +29,6 @@ I thought the Finals was ok, but I was upset as he basically recycled textbook q
 Expected Grade: A-/A
 
 Actual Grade: A-
+
 
 Updated as of 07/08/2024

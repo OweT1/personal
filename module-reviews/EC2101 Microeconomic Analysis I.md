@@ -36,6 +36,7 @@ I thought the Midterms was rather alright in terms of the Prof's standards, MCQ 
 I did not study so hard for Finals and hence I thought the paper was rather difficult, with a lot of weird questions, though I would say that this is simply a Prof Ee Cheng paper. I walked out of the exam hall discussing with my friend and I felt quite discouraged as his answers were different from mine.
 
 Expected Grade: A
+
 Actual Grade: A
 
 Updated as of 07/08/2024

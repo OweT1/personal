@@ -2,7 +2,8 @@
 ## Taken in AY22/23 Semester 1
 
 Professor: Prof Ong Ee Cheng and Prof Chan Kok Hoe
-TA: Carol
+
+TA: Caroline Quek
 
 ### Assessment Mode:
 - LumiNUS Quizzes (10%)

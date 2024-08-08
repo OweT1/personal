@@ -5,7 +5,7 @@ Professor: Prof Dilip Raghavan, Prof Ma Siu Lun
 
 TA: Not sure
 
-Assessment Mode:
+### Assessment Mode:
 - LumiNUS Quiz (15%) (12 quizzes, majority 10 MCQ questions)
 - Homework (20%) (4 Homeworks, 5% each)
 - MATLAB Assignment (5%)

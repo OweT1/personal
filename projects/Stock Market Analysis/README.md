@@ -1,6 +1,6 @@
 # Stock Market Analysis
 
-Stumbled upon this whilst looking through the IT1244 Projects. Decided to do this as it was labelled as 'Challenging'.
+Stumbled upon this whilst looking through the `IT1244 Artificial Intelligence: Technology and Impact` Projects. Decided to do this as it was labelled as 'Challenging'.
 This is a Regression problem, where we are looking at predicting the 4 features, `Open`, `Close`, `High` and `Low` using a regression model.
 
 I decided to go with a simple `LinearRegression()` model, since there were `Rating` features that would be useful in a Machine Learning model. Hence, the ARIMA model was not used.

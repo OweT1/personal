@@ -13,7 +13,9 @@ TA: Not very sure
 Overall an alright module. A lot of Linear Algebra in the content, so it is really important to have strong fundamentals in this area (which I did not have). The Prof was really nice to our questions and honestly I liked him as a Lecturer. The content was dry at times, but I think the prof really tried his best to break it down and make it a bit more engaging for us. Would definitely recommend taking modules under Prof Tim Wertz.
 
 Workload: 5/10
+
 Difficulty: 6/10
+
 Enjoyability: 4/10
 
 ### Homework - Close to full marks/20:

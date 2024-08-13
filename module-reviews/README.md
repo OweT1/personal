@@ -32,5 +32,14 @@ Here is a collection of all the modules that I have taken thus far/will be takin
 |      |          | CS3244      | Machine Learning                                      |
 |      |          | CS3245      | Information Retrieval                                 |
 |      |          | DSA4213     | Natural Language Processing for Data Science          |
+| 4    | 1        | HSI20xx     | TBC                                                   |
+|      |          | CS2103      | Software Engineering                                  |
+|      |          | CS2105      | Introduction to Computer Networks                     |
+|      |          | CS2106      | Introduction to Operating Systems                     |
+|      |          | HS29xx      | TBC                                                   |
+|      |          | HS29xx      | TBC                                                   |
+| 4    | 2        | CS4225      | Big Data Systems for Data Science                     |
+|      |          | DSA4266     | Sense-making Case Analysis: Science and Technology    |
 
-Updated as of 06/08/2024
+
+Updated as of 13/08/2024

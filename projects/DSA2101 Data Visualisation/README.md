@@ -11,4 +11,6 @@ For the project, I will be creating the following 3 visualisations:
 - `Bar Plots` to observe the Energy Consumption Trends between the different types of energy sources.
 - `Proportional Stacked Area Charts` to observe the Total Energy Consumption Trends between the 'clean' and 'non-clean' energy sources.
 
-More details can be found in the `.ipynb` file. The Python Packages used are: NumPy, Pandas, Matplotlib, Seaborn
+More details can be found in the `.ipynb` file. 
+
+The Python Packages used are: `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`

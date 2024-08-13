@@ -20,9 +20,4 @@ The data was partitioned by the respective stock symbol, before they were split 
     - Contains information for over 500 companies (524 rows in total)
     - 10 attributes per company (10 columns)
     - You can use these attributes as assisting feature when performing prediction task on a particular day for a particular company
- ## Additional Information:
-- "Symbol" which denotes the company brand, is the common feature between the two datasets
-- Missing values are there in the dataset
-- Categorical, discrete and continuous attributes exist in the dataset
-- The prediction tasks are regression tasks
-- Make sure that train and test data have minimum information leakage (this is something you need to think about deeply)  
+ 

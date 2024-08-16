@@ -4,6 +4,8 @@ The good ol classic Titanic Dataset.
 
 Split dataset into 80-20 train-test split, and performed standard Feature Engineering (Imputing of NaN values, One-Hot Encoding of Categorical Variables) using `sklearn` package in Python.
 
+Key Performance Metric: Accuracy
+
 The models used in the dataset were:
 | No. | Model                           | Accuracy (%) |
 |:---:|---------------------------------|:------------:|
@@ -18,4 +20,4 @@ The models used in the dataset were:
 | 9   | Majority Voting                 | 84.36        |
 | 10  | Stacking                        | 81.56        |
 
-The Majority Voting Classifier (consisting of `SVM`, `Random Forest Classifier`, `K Nearest Neighbors`, `Logistic Regression` with `PCA` features, `Decision Tree`) was the most accurate model with an overall accuracy of 84.36%.
+The Majority Voting Classifier (consisting of `SVM`, `Random Forest Classifier`, `K Nearest Neighbors`, `Logistic Regression` with `PCA` features, `Decision Tree` models) was the most accurate model with an overall accuracy of 84.36%.

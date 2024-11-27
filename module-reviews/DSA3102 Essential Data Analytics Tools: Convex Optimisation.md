@@ -42,6 +42,8 @@ Relatively easy as the content tested was rather simple. Made a careless mistake
 If anything, the paper had the same structure as the PYP provided, except that the questions were non-standard and much more difficult.
 The meme below perfectly represents how I felt as I was doing the paper:
 
+![burning_dog](https://github.com/user-attachments/assets/f899408c-c7ba-4929-a036-5ca3414bbe0d)
+
 The bellcurve gods shall decide our fate.
 
 #### Expected Grade: A

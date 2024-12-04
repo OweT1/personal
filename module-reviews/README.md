@@ -31,7 +31,7 @@ Here is a collection of all the modules that I have taken thus far/will be takin
 |      |          | DSA3101     | Data Science in Practice                              |
 |      |          | CS3244      | Machine Learning                                      |
 |      |          | CS3245      | Information Retrieval                                 |
-|      |          | HS2916      | Love That Kills: A Criminal Justice Perspective       |
+|      |          | HS2920      | Transition to Clean and Just Energy                   |
 | 4    | 1        | CS2103      | Software Engineering                                  |
 |      |          | CS2105      | Introduction to Computer Networks                     |
 |      |          | CS2106      | Introduction to Operating Systems                     |

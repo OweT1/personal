@@ -52,6 +52,6 @@ The meme below perfectly represents how I felt as I was doing the paper:
 The bellcurve gods shall decide our fate.
 
 #### Expected Grade: A
-#### Actual Grade: TBC
+#### Actual Grade: A-
 
-Updated as of 27/11/2024
+Updated as of 24/12/2024

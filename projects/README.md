@@ -11,6 +11,5 @@ Here are some of the projects that I have undertaken thus far:
 | 5   | Sentence Sentiment Analysis    | Sentimental Analysis of Statements | Natural Language Processing, Sentimental Analysis |
 | 6   | Movie Reviews (Archived)       | Movie Rating Prediction            | Natural Language Processing, Sentimental Analysis |
 | 7   | ChatBot (Archived)             | PersonalBot                        | Generative AI                                     |
-| 8   | DSA3101 Data Science in Practice Mock     | E-commerce Performance Analysis and Optimization | TBC                                 |
 
 The projects are a mix between Data Visualisation and Data Science / Machine Learning.

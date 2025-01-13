@@ -26,20 +26,20 @@ Here is a collection of all the modules that I have taken thus far/will be takin
 |      |          | DSA2101     | Essential Data Analytics Tools: Data Visualisation    |
 |      |          | ST3131      | Regression Analysis                                   |
 | 3    | 1        | DSA3102     | Essential Data Analytics Tools: Convex Optimisation   |
-| 3    | 2        | IT2002      | Database Technology and Management                    |
+| 3    | 2        | DSA3101     | Data Science in Practice                              |
 |      |          | CS2030      | Programming Methodology II                            |
-|      |          | DSA3101     | Data Science in Practice                              |
+|      |          | CS2105      | Introduction to Computer Networks                     |
 |      |          | CS3244      | Machine Learning                                      |
 |      |          | CS3245      | Information Retrieval                                 |
+|      |          | IT2002      | Database Technology and Management                    |
 |      |          | HS2920      | Transition to Clean and Just Energy                   |
-| 4    | 1        | CS2103      | Software Engineering                                  |
-|      |          | CS2105      | Introduction to Computer Networks                     |
+| 4    | 1        | DSA426x     | TBC                                                   |
+|      |          | CS2103      | Software Engineering                                  |
 |      |          | CS2106      | Introduction to Operating Systems                     |
-|      |          | DSA426x     | TBC                                                   |
 |      |          | HSI20xx     | TBC                                                   |
-|      |          | HS29xx      | TBC                                                   |
-| 4    | 2        | CS4225      | Big Data Systems for Data Science                     |
-|      |          | DSA426x     | TBC                                                   |
+|      |          | HS2914      | How to Get Humans and Machines to Talk to Each Other  |
+| 4    | 2        | DSA426x     | TBC                                                   |
+|      |          | CS4225      | Big Data Systems for Data Science                     |
 
 
-Updated as of 05/12/2024
+Updated as of 13/01/2025

@@ -8,3 +8,6 @@ accelerate
 peft
 bitsandbytes
 tf-keras
+torch
+torchvision
+torchaudio

@@ -1,14 +1,14 @@
-# Sentence Sentimental Analysis 😀😞
+# 😀 Sentence Sentimental Analysis 😞
 
-## Project Overview 📊
+## 📊 Project Overview 
 The project is simply about analysing the sentimental meaning of sentences, which are defined to be either positive or negative. In our case, we will make use of Large Language Models (LLM) and fine-tune them based on the data provided, utilising Parameter-Efficient Fine-Tuning (PEFT) methods, in this case Low Rank Adaption (LoRA) and Quantisation to train our models in a faster way.
 
-## Project Tech Stack 👨‍💻
+## 👨‍💻 Project Tech Stack 
 Programming Language: Python
 Libraries & Dependencies: `transformers`, `peft`, `bitsandbytes`, `torch`, `torchvision`, `torchaudio`, `accelerate`, `seaborn`, `matplotlib`, `scikit-learn`, `numpy`, `pandas` (Can be found in the `requirements.txt` file)
 Others: Hugging Face
 
-## Brief Summary of Models Tested 📝
+## 📝 Brief Summary of Models Tested 
 The details and results of the various models tested are below:
 
 | Base Model                       | Epochs | Precision | Accuracy | Remarks                             | Model Link*                                                                                                                                                     |

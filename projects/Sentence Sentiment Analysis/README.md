@@ -5,7 +5,9 @@ The project is simply about analysing the sentimental meaning of sentences, whic
 
 ## 👨‍💻 Project Tech Stack 
 Programming Language: Python
+
 Libraries & Dependencies: `transformers`, `peft`, `bitsandbytes`, `torch`, `torchvision`, `torchaudio`, `accelerate`, `seaborn`, `matplotlib`, `scikit-learn`, `numpy`, `pandas` (Can be found in the `requirements.txt` file)
+
 Others: Hugging Face
 
 ## 📝 Brief Summary of Models Tested 

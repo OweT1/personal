@@ -35,7 +35,8 @@ def train_model(training_data, validation_data, model_dir, num_epochs, num_label
         model_dir, 
         num_labels=num_labels,
         id2label=id2label,
-        label2id=label2id
+        label2id=label2id,
+        device_map=0
         )
 
     training_args = TrainingArguments(
@@ -88,7 +89,8 @@ def train_lora_model(training_data, validation_data, model_dir, num_epochs, num_
         num_labels=num_labels,
         quantization_config=quantization_config,
         id2label=id2label,
-        label2id=label2id
+        label2id=label2id,
+        device_map=0
         )
 
     # lora config

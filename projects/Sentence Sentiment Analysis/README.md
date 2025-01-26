@@ -13,7 +13,7 @@ The details and results of the various models tested are below:
 
 | Base Model                       | Epochs | Precision | Accuracy | Remarks                             | Model Link*                                                                                                                                                     |
 |----------------------------------|--------|-----------|----------|-------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `google-bert/bert-base-uncased`  | 20     |           |          |                                     | [https://huggingface.co/OwenTanKL/bert-base-uncased-finetuned-sa-20epochs](https://huggingface.co/OwenTanKL/bert-base-uncased-finetuned-sa-20epochs)           |
+| `google-bert/bert-base-uncased`  | 20     | 0.91      | 0.88     |                                     | [https://huggingface.co/OwenTanKL/bert-base-uncased-finetuned-sa-20epochs](https://huggingface.co/OwenTanKL/bert-base-uncased-finetuned-sa-20epochs)           |
 | `google-bert/bert-large-uncased` | 20     | 0.91      | 0.88     | Trained using LoRA and Quantisation | [https://huggingface.co/OwenTanKL/bert-large-uncased-finetunedlora-sa-20epochs](https://huggingface.co/OwenTanKL/bert-large-uncased-finetunedlora-sa-20epochs) |
 |                                  |        |           |          |                                     |                                                                                                                                                                |
 

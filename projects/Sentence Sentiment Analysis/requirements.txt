@@ -7,3 +7,4 @@ transformers
 accelerate
 peft
 bitsandbytes
+tf-keras

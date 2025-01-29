@@ -19,5 +19,5 @@ The details and results of the various models tested are below:
 | `google-bert/bert-large-uncased` | 20     | 0.91      | 0.88     | Trained using LoRA and Quantisation | [https://huggingface.co/OwenTanKL/bert-large-uncased-finetunedlora-sa-20epochs](https://huggingface.co/OwenTanKL/bert-large-uncased-finetunedlora-sa-20epochs) |
 |                                  |        |           |          |                                     |                                                                                                                                                                |
 
-*As Github is unable to accomodate our model files due to the file size capacity, I have uploaded them onto my Hugging Face account instead. Hence, the importing of the model will have to be done differently if you would like to try it out yourself! 
+*As Github is unable to accomodate our model files due to the file size capacity, I have uploaded them onto my Hugging Face account instead. Hence, the importing of the model will have to be done differently if you would like to try it out yourself! :D
 

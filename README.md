@@ -8,8 +8,6 @@ This is my personal repository containing some of the things that I have done in
 # Highlights 🪄
 Some of my highlights include the Sentence Sentimental Analysis project (under `projects` folder in this repository) and the Shopee Refund Policy Question Answering project (in the `shopee-refund-policy` repository, found [here](https://github.com/OweT1/shopee-refund-policy)). 
 
-Do Feel free to take a look around! 
-
 # Contact ☎️
 Please feel free to let me know if there is anything you want to know more about :D
 

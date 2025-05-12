@@ -24,8 +24,10 @@ Enjoyability: 6/10
 ### Assignments - 20/20:
 2 Assignments, 1 mainly focused on SQL queries, and 1 focused on Functional Dependencies and Normalisation. The 2nd assignment is definitely a lot trickier and tougher, but it really helps to have friends to discuss answers with etc.
 
-### Group Project - 14-16(?)/20:
+### Group Project - 13/20:
 A group project split into 3 components: Creation of Database Tables, Creation of Entity Relationship Diagram (ERD), and Creation of Stored Procedures and Triggers. It should be fine as long as you have groupmates who know what is going on with this module.
+
+Breakdown: 4.5/5, 3/5, 5.5/10
 
 ### Test 1 - 26.5/30:
 Tested mainly on Entity Relationship Diagram and SQL querying. SQL querying is rather simple, the 'harder' portion would be understanding the ERD and learning how to read it. Overall, it was okay.
@@ -33,8 +35,8 @@ Tested mainly on Entity Relationship Diagram and SQL querying. SQL querying is r
 ### Test 2 - 21.5/30:
 Tested mainly on Database Normalisation and Functional Dependencies. I felt that it was doable and understandable, but 1 or 2 simple mistakes can cost you a lot of marks, which happened to be the case this time round.
 
-#### Expected Grade: A-
+#### Expected Grade: B+/A- (81/100)
 
 #### Actual Grade: TBC
 
-Updated as of 07/05/2025
+Updated as of 12/05/2025

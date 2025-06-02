@@ -39,6 +39,6 @@ Tested on the whole semester. Would say that it was quite underwhelming, given t
 
 #### Expected Grade: A
 
-#### Actual Grade: TBC
+#### Actual Grade: A
 
-Updated as of 07/05/2025
+Updated as of 02/06/2025

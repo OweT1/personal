@@ -39,6 +39,6 @@ A rather unfortunate string of events that led to the delaying of the exam by ha
 
 #### Expected Grade: A-/A
 
-#### Actual Grade: TBC
+#### Actual Grade: A-
 
-Updated as of 07/05/2025
+Updated as of 02/06/2025

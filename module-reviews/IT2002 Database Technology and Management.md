@@ -37,6 +37,6 @@ Tested mainly on Database Normalisation and Functional Dependencies. I felt that
 
 #### Expected Grade: B+/A- (81/100)
 
-#### Actual Grade: TBC
+#### Actual Grade: A-
 
-Updated as of 12/05/2025
+Updated as of 02/06/2025

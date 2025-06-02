@@ -43,6 +43,6 @@ Decided by your group mates! Just do the work and this will be fine.
 
 #### Expected Grade: A
 
-#### Actual Grade: TBC
+#### Actual Grade: B+
 
 Updated as of 07/05/2025

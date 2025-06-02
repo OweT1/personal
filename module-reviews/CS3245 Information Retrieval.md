@@ -41,6 +41,6 @@ I think this year's finals was harder (could be just me...), given that the appl
 
 #### Expected Grade: A-
 
-#### Actual Grade: TBC
+#### Actual Grade: A
 
-Updated as of 07/05/2025
+Updated as of 02/06/2025

@@ -32,14 +32,12 @@ Here is a collection of all the modules that I have taken thus far/will be takin
 |      |          | CS3245      | Information Retrieval                                 |
 |      |          | IT2002      | Database Technology and Management                    |
 |      |          | HS2920      | Transition to Clean and Just Energy                   |
-| 4    | 1        | CS1231      | Discrete Structures                                   |
+| 4    | 1        | DSA4213     | Natural Language Processing for Data Science          |
 |      |          | CS4225      | Big Data Systems for Data Science                     |
-| 4    | 2        | CS2103      | Software Engineering                                  |
-|      |          | CS2106      | Introduction to Operating Systems                     |
-|      |          | DSA421x     | TBC                                                   |
-|      |          | DSA426x     | TBC                                                   |
-|      |          | HSI20xx     | TBC                                                   |
+|      |          | CS4243      | Computer Vision and Pattern Recognition               |
+|      |          | HSI2013     | The Science of Music                                  |
+| 4    | 2        | DSA426x     | TBC                                                   |
 |      |          | HS29xx      | TBC                                                   |
 
 
-Updated as of 07/05/2025
+Updated as of 30/08/2025

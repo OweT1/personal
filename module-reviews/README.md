@@ -34,7 +34,6 @@ Here is a collection of all the modules that I have taken thus far/will be takin
 |      |          | HS2920      | Transition to Clean and Just Energy                   |
 | 4    | 1        | DSA4213     | Natural Language Processing for Data Science          |
 |      |          | CS4225      | Big Data Systems for Data Science                     |
-|      |          | CS4243      | Computer Vision and Pattern Recognition               |
 |      |          | HSI2013     | The Science of Music                                  |
 | 4    | 2        | DSA426x     | TBC                                                   |
 |      |          | HS29xx      | TBC                                                   |

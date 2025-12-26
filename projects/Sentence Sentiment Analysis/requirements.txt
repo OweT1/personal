@@ -11,3 +11,5 @@ tf-keras
 torch
 torchvision
 torchaudio
+datasets
+einops

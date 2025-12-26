@@ -28,18 +28,15 @@ Here is a collection of all the modules that I have taken thus far/will be takin
 | 3    | 1        | DSA3102     | Essential Data Analytics Tools: Convex Optimisation   |
 | 3    | 2        | DSA3101     | Data Science in Practice                              |
 |      |          | CS2030      | Programming Methodology II                            |
-|      |          | CS2105      | Introduction to Computer Networks                     |
 |      |          | CS3244      | Machine Learning                                      |
 |      |          | CS3245      | Information Retrieval                                 |
 |      |          | IT2002      | Database Technology and Management                    |
 |      |          | HS2920      | Transition to Clean and Just Energy                   |
-| 4    | 1        | DSA426x     | TBC                                                   |
-|      |          | CS2103      | Software Engineering                                  |
-|      |          | CS2106      | Introduction to Operating Systems                     |
-|      |          | HSI20xx     | TBC                                                   |
-|      |          | HS2914      | How to Get Humans and Machines to Talk to Each Other  |
-| 4    | 2        | DSA426x     | TBC                                                   |
+| 4    | 1        | DSA4213     | Natural Language Processing for Data Science          |
 |      |          | CS4225      | Big Data Systems for Data Science                     |
+|      |          | HSI2013     | The Science of Music                                  |
+| 4    | 2        | DSA426x     | TBC                                                   |
+|      |          | HS29xx      | TBC                                                   |
 
 
-Updated as of 13/01/2025
+Updated as of 30/08/2025

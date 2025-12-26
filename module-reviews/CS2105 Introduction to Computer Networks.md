@@ -13,7 +13,11 @@ TA: -
 - Midterms (25%)
 - Finals (50%)
 
-To be updated in due time.
+Dropped the module in recess week due to heavy workload.
+
+The content in the 1st half of the semester was taught by Prof Wai Kay, and the 2nd half taught by Prof Jithin.
+
+The content was rather digestable due to the teaching mode, but it felt that a lot of concepts were not being elaborated on enough (which were thoroughly tested on for the midterms). Hence, reading of external content/concepts may be required to do well in this module.
 
 Workload: -/10
 
@@ -29,8 +33,6 @@ Enjoyability: -/10
 
 ### Finals - /50:
 
-#### Expected Grade: -
+#### Actual Grade: W
 
-#### Actual Grade: -
-
-Updated as of 18/01/2025
+Updated as of 12/03/2025

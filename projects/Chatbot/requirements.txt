@@ -1,6 +1,0 @@
-streamlit
-streamlit_chat
-time
-transformers
-torch
-tensorflow
